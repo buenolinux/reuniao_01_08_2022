@@ -26,3 +26,4 @@ Projeto Integrador
 --- Problema que resolve
 		Permitir reposição de produtos antes destes acabarem
 
+Modelagem inicial de banco de dados
