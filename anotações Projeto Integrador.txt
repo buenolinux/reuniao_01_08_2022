@@ -15,13 +15,16 @@ Projeto Integrador
 
 --- Descrição do projeto 
 	Calcular  produtos mais vendidos
-	Criar tela de produtos acesssados recentemente
+	Criar tela de produtos acessados recentemente
 		Sempre que uma alteração for feita exibir esta
+
+Minimizar o tempo de mercados ao realizar uma venda e no pedido de novos itens, através da contabilização de entrada e saída de itens e, facilitando o pedido de novos itens.
 
 --- Motivação
 	Torna fácil a gestão de um estoque.
 	Torna a rotina de um estoquista mais fácil.
 	Auxiliar no balanço de estoque
+Revolucionar os sistemas de estoques existentes.
 	tirar nota boa
 --- Problema que resolve
 		Permitir reposição de produtos antes destes acabarem
