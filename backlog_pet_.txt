@@ -1,0 +1,6 @@
+Backlog – Pet
+Integrar as informações do último atendimento do pet em um banco de dados que todas as clinicas usuárias terão acesso (Pets que não tem RGA receberá uma identificação no banco de dados). A verão web também será uma rede social e local de discursão.
+
+Recomendar somente rações industrializados.
+
+Usar a câmera para identificar raça do gato. 
