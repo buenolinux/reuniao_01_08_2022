@@ -1,2 +1,27 @@
-Calculador para pet
+
+
+Projeto Integrador
+-- Grupo: Divisão
+-- Definição de Temas
+	Calculador para pet
 Desktop administrativo para veterinário, agenda de vacinas ...
+---Tema alternativo
+	Guia de Pets
+---Projeto  Desktop e Web
+	Sistema desktop vai ajudar a gerenciar uma clínica veterinária
+	este sistema terá versão web com alguns recursos como “rede social”
+	e um local de fóruns para tirar dúvidas
+
+-- Documentação inicial:
+
+--- Descrição do projeto 
+	Calcular a dieta do animal de acordo com a sua raça e sua idade
+	
+
+--- Motivação
+	Auxiliar na gestão de uma clinica veterinária, onde o dr poderá criar uma agenda para o pet, gravar o histórico de vacinação, remédios ...
+--- Problema que resolve
+		Versão desktop auxiliar a clinica
+		Versão WEB  ser um “local”  de encontro para tutores trocarem experiências onde estes terão acesso à algumas informações e ferramentas como uma agenda para seu pet personalizada e uma calculadora de dieta
+
+Modelagem inicial de banco de dados
