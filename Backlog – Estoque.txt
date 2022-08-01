@@ -1,0 +1,12 @@
+Backlog – Estoque 
+Ao faltar itens, o setor responsável recebe um email para repor e, pode usar a funcionalidade de email pronto para solicitar novos itens ao fornecedor (whatsapp, email, smartwatch)
+
+Aba de recente – toda vez que for alterar informação na base de dados, mostrará a alteração.
+Menu de usuário, quem estiver usando vai ter uma bolinha de opções com o nome da pessoa
+Separar os tipos de itens, por exemplo, alimento, produtos de limpeza, por cores. 
+Pop up – pedir ao usuário acesso a notificação 
+Operadores podem notificar itens vencidos ou perdidos para o setor responsável e pedir promoção para o setor responsável (Pedir ao setor responsável) (Pondera de app mobile)
+Registrar itens obsoletos, que não foram vendidos e não estão mais na glândula. 
+Salvamento automático de alguma atividade que estava realizando 
+Botão para baixar as vendas do mês (O projeto poderá realizar uma estimativa de produtos mais vendidos e não vendidos)
+Congelar o estado do banco de dados antes da queda de uma força
