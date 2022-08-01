@@ -1,0 +1,57 @@
+banco de dados para Gerenciador de estoque
+ 
+Tabelas
+	funcionarios
+		id_funcionarios
+		nome
+		setor
+		funcao
+		salario --
+	produtos
+	  id_produtos
+	  nome
+	  quantidades
+          fabricante
+	  id_fornecedor
+	  preco
+	  categoria
+	  validade
+	  estado_conservacao
+
+	Vendas
+	    id_venda
+	    id_produto
+	    id_estoque
+	    quantidade
+	    total
+	    data
+	
+	perdas
+	  id_perda
+	  id_produto
+	  id_corredor
+          outros(estado de conservação)
+	  setor
+     	  quantidades
+	  data
+	
+
+
+	 fornecedores
+		id_fornecedor
+		nome
+
+	estoque
+	    id_estoque
+	    id_produto
+	    
+	
+	corredor
+		id_funcionarios
+		id_corredor
+		id_produto
+		quantidade_corredor 5 fardos 
+		/*  talvez identificar por nome ou cores */
+
+		
+	  
