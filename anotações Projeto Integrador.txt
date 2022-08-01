@@ -1,0 +1,28 @@
+Projeto Integrador
+-- Grupo: Divisão
+-- Definição de Temas
+	Gerenciador de estoque
+---Tema alternativo
+	Guia de Pets
+---Projeto  Desktop e Web
+	Sistema desktop vai ajudar a gerenciar um 
+	estoque de um mercado ou outro lugar 
+	este sistema terá versão web com alguns
+		recursos como parte para o financeiro...
+	este sistema poderá enviar alertas para repor o estoque este sistema podera alertar (whatsapp, email, smartwatch)
+
+-- Documentação inicial:
+
+--- Descrição do projeto 
+	Calcular  produtos mais vendidos
+	Criar tela de produtos acesssados recentemente
+		Sempre que uma alteração for feita exibir esta
+
+--- Motivação
+	Torna fácil a gestão de um estoque.
+	Torna a rotina de um estoquista mais fácil.
+	Auxiliar no balanço de estoque
+	tirar nota boa
+--- Problema que resolve
+		Permitir reposição de produtos antes destes acabarem
+
