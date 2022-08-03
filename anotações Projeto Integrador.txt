@@ -25,7 +25,6 @@ Minimizar o tempo de mercados ao realizar uma venda e no pedido de novos itens, 
 	Torna a rotina de um estoquista mais fácil.
 	Auxiliar no balanço de estoque
 Revolucionar os sistemas de estoques existentes.
-	tirar nota boa
 --- Problema que resolve
 		Permitir reposição de produtos antes destes acabarem
 
