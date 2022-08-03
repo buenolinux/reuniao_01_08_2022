@@ -8,7 +8,7 @@ Projeto Integrador
 	Sistema desktop vai ajudar a gerenciar um 
 	estoque de um mercado ou outro lugar 
 	este sistema terá versão web com alguns
-		recursos como parte para o financeiro...
+		recursos como parte para o financeiro e outros setores como área de logistica...
 	este sistema poderá enviar alertas para repor o estoque este sistema podera alertar (whatsapp, email, smartwatch)
 
 -- Documentação inicial:
