@@ -11,7 +11,7 @@ Projeto Integrador
 	este sistema terá versão web com alguns recursos como “rede social”,
 	local de fóruns para tirar dúvidas, agenda onde o tutor poderá criar a agenda de seu pet,
 	os tutores que utilizam a clinica poderá acessar e compartilhar o histórico de atendimento dos pet's na versão web
-	
+		agendamento de consultas online pelo usuário
 
 -- Documentação inicial:
 
