@@ -9,9 +9,10 @@ Projeto Integrador
 ---Projeto  Desktop e Web
 	Sistema desktop vai ajudar a gerenciar uma clínica veterinária na parte de atendimento e registro de informações dos paciêntes(os pet's)
 	este sistema terá versão web com alguns recursos como “rede social”,
-	local de fóruns para tirar dúvidas, agenda onde o tutor poderá criar a agenda de seu pet,
-	os tutores que utilizam a clinica poderá acessar e compartilhar o histórico de atendimento dos pet's na versão web
-		agendamento de consultas online pelo usuário
+	local de fóruns para tirar dúvidas, agenda onde o tutor poderá criar a agenda de seu pet, para administração de remedios datas de vacinação e também consultar 
+	a agenda da clinica e com base na disponibilidade realizar o agendamento de consultas 
+	os tutores que utilizam a clinica poderão acessar e compartilhar o histórico de atendimento dos pet's 
+	
 
 -- Documentação inicial:
 
@@ -21,6 +22,8 @@ Projeto Integrador
 
 --- Motivação
 	Auxiliar na gestão de uma clinica veterinária, onde o veterinário poderá criar uma agenda para o pet, gravar o histórico de vacinação, remédios ...
+	Na versão web os tutores encontrarão uma fonte de pesquisa para tirar dúvidas ou fazer perguntas para outros usuários da rede social, 
+	os usuários do site que não conhecem a clinica poderão conhecer-la melhor e serão possíveis clientes.
 --- Problema que resolve
 		Versão desktop auxiliar a clinica, no atendimento e na consulta do histórico do paciênte
 		Versão WEB  ser um “local”  de encontro para tutores trocarem experiências onde estes terão acesso à algumas informações e ferramentas como uma agenda para seu pet personalizada e uma calculadora de dieta de acordo com a raça e peso do animal, os clientes da clinica veterinária poderão ter acesso ao histórico de atendimento do pet pelo site
