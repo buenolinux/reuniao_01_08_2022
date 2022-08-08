@@ -1,0 +1,70 @@
+banco de dados para Gerenciador de estoque
+ 
+Tabelas
+	tab_funcionarios
+		id_funcionarios
+		nome
+		setor
+		funcao
+		
+	tab_produtos
+	  	id_produtos
+	  	id_fornecedor
+		id_categoria
+		nome
+	  	preco  	
+	  	validade
+	  	estado_conservacao
+
+	tab_categorias
+	   	id_categoria
+	   	nome
+
+	tab_pedidos 
+		id_pedido
+		id_cliente
+		id_produto
+		quantidade
+		subtotal
+		
+	tab_Vendas
+	    	id_venda
+	    	id_pedido
+	    	id_estoque
+	    	quantidade
+	    	total
+	    	data
+	
+	tab_perdas
+	  	id_perda
+	  	id_produto
+	  	id_corredor
+          	outros(estado de conservação)
+	  	setor
+     	  	quantidades
+	  	data
+	
+
+
+	 tab_fornecedores
+		id_fornecedor
+		nome
+
+	tab_estoques
+	    	id_estoque
+	    	id_produto
+	    	quantidades 
+	    
+	
+	tab_corredores
+		id_funcionarios
+		id_corredor
+		id_produto
+		quantidade_corredor 5 fardos 
+		/*  talvez identificar por nome ou cores */
+
+		
+	  
+link sugerido pelo professor https://diariodonaturalista.com.br/plantas-toxicas-para-gatos-e-nao-toxicas/
+https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
+curso de modelagem de dados boson https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD
