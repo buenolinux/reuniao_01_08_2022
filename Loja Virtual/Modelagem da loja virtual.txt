@@ -1,0 +1,76 @@
+ tabelas
+    	tab_clientes
+        id_cliente
+        nome
+	genero
+	data de nascimento
+	cpf
+	telefone
+	cep
+	e-mail
+        senha
+        
+        
+        
+    tab_produtos
+        id_produto
+        nome
+        validade
+        quantidade
+        marca
+	preço
+
+
+
+       
+    tab_pratileiras
+        id_pratileira
+        numero
+
+
+
+       
+    tab_corredores
+        id_corredor
+        numero
+        
+
+
+
+   tab_setores
+        id_setor
+        nome
+        categorias
+
+
+
+   tab_compras
+        id_compra
+        produto(s)
+        quantidade
+        NomeProduto
+        cep
+
+
+
+   
+    tab_ofertas
+        produto
+        preço
+        reducao
+        ValorFinal
+        tempo
+        
+
+
+
+
+    -- Inner Join
+
+
+
+   tab_procura
+        id_produto
+        NomeProduto
+       	tipo
+	filtro
