@@ -1,0 +1,2 @@
+para a loja virtual o cliente poderá criar um carrinho de compras fixo que 
+uma vez por mês fara um pedidoto automático com os produtos que o cliente selecionar assim o cliente não precisará pedir novamente uma vez que este são produtos que recorrentes
